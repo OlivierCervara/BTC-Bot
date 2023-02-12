@@ -41,4 +41,4 @@ async def on_message(message):
         await message.channel.send(embed=embed)
 
 # Démarrage du client Discord
-client.run("MTA3NDMzOTIyODQzMjk5MDI5MA.Gq3D7B.wbP3T_WVykp3beNyY3vcl0Oax32MiF2NSwnMLs")
+client.run("DISCORD_BOT_TOKEN")
